@@ -3,7 +3,9 @@ public class Circle
     private Double radius;
     private String colour;
 
-    //Constructor
+    // Default Constructor
+
+    // No Argument Constructor
     public Circle()
     {
         this.colour = "green";
