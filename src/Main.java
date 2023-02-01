@@ -1,4 +1,4 @@
-import java.util.Random;
+// Exercise 2: Disks Are Loading - "Ready for marking"
 
 public class Main {
     public static void main(String[] args)
